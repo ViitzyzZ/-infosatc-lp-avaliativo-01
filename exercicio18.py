@@ -1,4 +1,4 @@
 imprimir = print
-M =  float (input("Digite o valor em metros cúbicos:" ))
-L =  M * 1000
-imprimir ( L ) 
+metros =  float (input("Digite o valor em metros cúbicos:" ))
+litros =  metros * 1000
+imprimir ( litros ) 
