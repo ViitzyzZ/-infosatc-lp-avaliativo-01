@@ -1,3 +1,3 @@
-m  =  float ( input ( "Insira o valor em metros cúbicos:" ))
-l  =  m  *  1000
-imprimir ( l )
+M =  float (input("Digite o valor em metros cúbicos:" ))
+L =  M * 1000
+imprimir ( L )
