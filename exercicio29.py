@@ -1,3 +1,5 @@
+imprimir = print
+entrada = print
 n1  =  float (input ("Digite a nota (n1):"))
 n2  =  float (input ("Digite a nota (n2):"))
 n3  =  float (input ("Digite a nota (n3):"))
