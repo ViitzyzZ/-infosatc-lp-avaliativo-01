@@ -1,3 +1,4 @@
+imprimir = print
 kg  =  float ( input ("Digite o peso em Kg:" ))
-lbr  =  kg  /  0 , 45
-imprimir ( lbr )
+lb  =  kg  /  0,45
+imprimir ( lb )
