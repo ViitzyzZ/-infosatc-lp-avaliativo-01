@@ -1,4 +1,4 @@
 imprimir = print
-jd =  float ( input ( "Digite o valor em jardas:" ))
-m  =  jd  *  0,91
-imprimir ( m )
+jardas =  float ( input ( "Digite o valor em jardas:" ))
+metros =  jardas  *  0,91
+imprimir ( metros )
