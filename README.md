@@ -1,6 +1,6 @@
 # -infosatc-lp-avaliativo-01
 Atividade avaliativa 01 da disciplina de linguagem de programação do curso técnico de informática SATC 2020.
-<p Align="center"> <img src="logosatc.png"> </p>
+<html> <p Align="center"> <img src="logosatc.png"> </p> </html>
 - Nome do curso: Técnico em Informática
 - Nome da disciplina: Linguagem de Programação
 -  2020
