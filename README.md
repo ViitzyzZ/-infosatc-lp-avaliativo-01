@@ -5,3 +5,4 @@ Atividade avaliativa 01 da disciplina de linguagem de programação do curso té
 -  2020
 - Linguagem: Python
 - Descrição: Os exercícios acima foram realizados na disciplina de Linguagem de Programação, orientada pela professora Francine Cardoso!
+<html> <p Align="center"> <img src="logosatc.png"> </p> </html>
